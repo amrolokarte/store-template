@@ -7,7 +7,7 @@ window.SITE = {
   },
   "lang": "ar",
   "dir": "rtl",
-  "currency": "د.ج1600",
+  "currency": "د.ج",
   "currencyCode": "DZD",
   "theme": {
     "mode": "dark",
@@ -26,7 +26,7 @@ window.SITE = {
     "facebook": "",
     "youtube": ""
   },
-  "demoNotice": "نسخة تجريبية — عدّل site.config.js قبل النشر",
+  "demoNotice": "",
   "hero": {
     "title": "عنوان المتجر الرئيسي",
     "subtitle": "",
@@ -77,24 +77,24 @@ window.SITE = {
       "id": "product-1",
       "name": "منتج بألوان",
       "category": "glasses",
-      "image": "images/p1-black.jpg",
+      "image": "images/cartier-black-dark.jpg",
       "gallery": [
-        "images/p1-black.jpg",
-        "images/p1-white.jpg"
+        "images/cartier-black-dark.jpg",
+        "images/cartier-black-dark.jpg"
       ],
       "colors": [
         {
           "name": "أسود",
-          "image": "images/p1-black.jpg",
+          "image": "images/cartier-black-dark.jpg",
           "swatch": "#111111"
         },
         {
           "name": "أبيض",
-          "image": "images/p1-white.jpg",
+          "image": "images/cartier-black-light.jpg",
           "swatch": "#f1f1f1"
         }
       ],
-      "price": "1500",
+      "price": "",
       "badge": "جديد",
       "short": "وصف مختصر يظهر على البطاقة.",
       "description": "الوصف الكامل للمنتج: الخامة، المقاس، الاستخدام.",
@@ -108,7 +108,7 @@ window.SITE = {
       "id": "product-2",
       "name": "منتج 2",
       "category": "glasses",
-      "image": "images/p2.jpg",
+      "image": "images/cartier-havana-brown.jpg",
       "price": "2500",
       "short": "وصف مختصر.",
       "description": "وصف كامل للمنتج."
@@ -117,7 +117,7 @@ window.SITE = {
       "id": "product-3",
       "name": "منتج 3",
       "category": "watches",
-      "image": "images/p3.jpg",
+      "image": "images/cartier-havana-dark.jpg",
       "price": "",
       "short": "السعر عند الطلب.",
       "description": "وصف كامل للمنتج."
